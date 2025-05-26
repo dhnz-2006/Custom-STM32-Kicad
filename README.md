@@ -1,5 +1,7 @@
 # STM32F030 Custom Board
 
+![PCB Render](https://github.com/dhnz-2006/Custom-STM32-Kicad/blob/main/3d-view.PNG)
+
 This project contains the KiCad design files and documentation for a custom microcontroller development board based on the **STM32F030** series MCU. The board is designed for low-cost embedded systems and prototyping.
 
 
